@@ -1,0 +1,58 @@
+[
+    {
+        "sinif": "B",
+        "kullanilan_arac_tipi": "Otomobil / Hafif Ticari",
+        "kapsam": "Azami ağırlığı 3500 kg'ı geçmeyen, sürücü dahil 9 koltuklu araçlar (Makam ve Binek araçlar için uygundur)",
+        "yas_sarti": 18,
+        "gecerlilik_suresi": "10 yıl"
+    },
+    {
+        "sinif": "C1",
+        "kullanilan_arac_tipi": "Kamyonet / Orta Kamyon",
+        "kapsam": "3500 kg ile 7500 kg arası yük taşıma araçları (Malzeme tedarik kamyonetleri için uygundur)",
+        "yas_sarti": 18,
+        "gecerlilik_suresi": "5 yıl"
+    },
+    {
+        "sinif": "C",
+        "kullanilan_arac_tipi": "Kamyon / Mikser / Damper",
+        "kapsam": "3500 kg üzerindeki ağır yük taşıma araçları (Transmikser ve hafriyat kamyonları için uygundur)",
+        "yas_sarti": 21,
+        "gecerlilik_suresi": "5 yıl"
+    },
+    {
+        "sinif": "CE",
+        "kullanilan_arac_tipi": "Tır / Çekici / Lowbed",
+        "kapsam": "C sınıfı araçlara bağlı 750 kg üzeri römork/dorse (Ağır nakliye ve tır şoförleri için uygundur)",
+        "yas_sarti": 21,
+        "gecerlilik_suresi": "5 yıl"
+    },
+    {
+        "sinif": "D1",
+        "kullanilan_arac_tipi": "Minibüs",
+        "kapsam": "Sürücü dahil 17 koltuğa kadar olan araçlar (Personel ve öğrenci servisi için uygundur)",
+        "yas_sarti": 21,
+        "gecerlilik_suresi": "5 yıl"
+    },
+    {
+        "sinif": "D",
+        "kullanilan_arac_tipi": "Otobüs",
+        "kapsam": "Yolcu taşımacılığı yapan büyük otobüsler (Şehirlerarası ve turizm şoförleri için uygundur)",
+        "yas_sarti": 24,
+        "gecerlilik_suresi": "5 yıl"
+    },
+    {
+        "sinif": "G",
+        "kullanilan_arac_tipi": "İş Makinesi Operatörü",
+        "kapsam": "Ekskavatör, Loder, Vinç gibi tüm iş makineleri (Operatörlük belgesi ile birlikte kullanılır)",
+        "yas_sarti": 18,
+        "gecerlilik_suresi": "10 yıl"
+    },
+    {
+        "sinif": "F",
+        "kullanilan_arac_tipi": "Traktör",
+        "kapsam": "Tarım ve orman işlerinde kullanılan tekerlekli traktörler",
+        "yas_sarti": 16,
+        "gecerlilik_suresi": "10 yıl"
+    }
+]
