@@ -1,0 +1,211 @@
+{
+    "categories": [
+      {
+        "id": "nakliye",
+        "name": "Şoför Araçları",
+        "icon": "truck",
+        "role": "driver",
+        "vehicles": [
+          {
+            "id": "tir",
+            "name": "Tır (Çekici)",
+            "description": "Ağır yük, konteyner ve dorse taşımacılığı"
+          },
+          {
+            "id": "kamyon",
+            "name": "Kamyon (10 Teker/Kırkayak)",
+            "description": "Açık veya kapalı kasa yük taşıma"
+          },
+          {
+            "id": "damperli_kamyon",
+            "name": "Damperli Kamyon",
+            "description": "Hafriyat ve inşaat malzemesi taşıma"
+          },
+          {
+            "id": "transmikser",
+            "name": "Transmikser",
+            "description": "Hazır beton taşıma aracı"
+          },
+          {
+            "id": "kamyonet",
+            "name": "Kamyonet",
+            "description": "Şehir içi hafif yük nakliyesi"
+          },
+          {
+            "id": "panelvan",
+            "name": "Panelvan",
+            "description": "Kapalı kasa ticari ve kargo aracı"
+          },
+          {
+            "id": "otobus",
+            "name": "Otobüs",
+            "description": "Şehirlerarası veya turizm yolcu taşıma"
+          },
+          {
+            "id": "minibus",
+            "name": "Minibüs / Servis",
+            "description": "Personel ve öğrenci servisi"
+          },
+          {
+            "id": "tanker",
+            "name": "Tanker",
+            "description": "Akaryakıt, su veya kimyasal taşıma"
+          },
+          {
+            "id": "frigorifik",
+            "name": "Frigorifik Araç",
+            "description": "Soğuk zincir gıda taşımacılığı"
+          },
+          {
+            "id": "cekilir",
+            "name": "Çekici / Kurtarıcı",
+            "description": "Araç taşıma ve yol yardım"
+          },
+          {
+            "id": "binek",
+            "name": "Makam / Binek Araç",
+            "description": "Özel şoförlük ve VIP transfer"
+          }
+        ]
+      },
+      {
+        "id": "insaat",
+        "name": "İnşaat Makineleri",
+        "icon": "excavator",
+        "role": "operator",
+        "vehicles": [
+          {
+            "id": "ekskavator",
+            "name": "Ekskavatör (Paletli/Lastikli)",
+            "description": "Kazı, kırım ve hafriyat makinesi"
+          },
+          {
+            "id": "kazici_yukleyici",
+            "name": "Kazıcı Yükleyici (Beko Loder)",
+            "description": "Hem kazı hem yükleme yapan kombine makine"
+          },
+          {
+            "id": "loder",
+            "name": "Loder (Yükleyici)",
+            "description": "Malzeme yükleme ve taşıma makinesi"
+          },
+          {
+            "id": "mini_ekskavator",
+            "name": "Mini Ekskavatör",
+            "description": "Dar alanlar ve peyzaj kazıları"
+          },
+          {
+            "id": "buldozer",
+            "name": "Buldozer",
+            "description": "Toprak itme, serme ve zemin düzleme"
+          },
+          {
+            "id": "fore_kazik",
+            "name": "Fore Kazık Makinesi",
+            "description": "Zemin güçlendirme ve delgi işlemleri"
+          },
+          {
+            "id": "kaya_kamyonu",
+            "name": "Kaya Kamyonu (Belden Kırma)",
+            "description": "Zorlu arazide hafriyat taşıma"
+          },
+          {
+            "id": "beton_pompasi",
+            "name": "Beton Pompası",
+            "description": "Beton döküm ve aktarma makinesi"
+          },
+          {
+            "id": "pumix",
+            "name": "Pumix (Mikser Pompası)",
+            "description": "Hem mikser hem pompa özelliği olan araç"
+          }
+        ]
+      },
+      {
+        "id": "vinc",
+        "name": "Vinç ve Kaldırma",
+        "icon": "crane",
+        "role": "operator",
+        "vehicles": [
+          {
+            "id": "kule_vinc",
+            "name": "Kule Vinç",
+            "description": "Yüksek katlı inşaat vinci"
+          },
+          {
+            "id": "mobil_vinc",
+            "name": "Mobil Vinç",
+            "description": "Tekerlekli ağır tonajlı vinç"
+          },
+          {
+            "id": "hiyap",
+            "name": "Hiyap (Kamyon Üstü Vinç)",
+            "description": "Kamyon üzeri katlanır bomlu vinç"
+          },
+          {
+            "id": "forklift",
+            "name": "Forklift",
+            "description": "Depo içi paletli yük taşıma"
+          },
+          {
+            "id": "teleskopik_forklift",
+            "name": "Manitou / Teleskopik Forklift",
+            "description": "İnşaat sahası yüksek erişimli yükleyici"
+          },
+          {
+            "id": "platform",
+            "name": "Personel Yükseltici Platform",
+            "description": "Makaslı veya eklemli çalışma platformu"
+          },
+          {
+            "id": "sepetli_vinc",
+            "name": "Sepetli Vinç",
+            "description": "Araç üstü personel kaldırma vinci"
+          },
+          {
+            "id": "reach_stacker",
+            "name": "Reach Stacker (Liman)",
+            "description": "Konteyner istifleme makinesi"
+          }
+        ]
+      },
+      {
+        "id": "yol",
+        "name": "Yol Yapım",
+        "icon": "road-variant",
+        "role": "operator",
+        "vehicles": [
+          {
+            "id": "greyder",
+            "name": "Greyder",
+            "description": "Yol tesviye ve serim makinesi"
+          },
+          {
+            "id": "silindir",
+            "name": "Silindir (Toprak/Asfalt)",
+            "description": "Zemin sıkıştırma makinesi"
+          },
+          {
+            "id": "asfalt_serici",
+            "name": "Asfalt Serici (Finişer)",
+            "description": "Sıcak asfalt serme makinesi"
+          },
+          {
+            "id": "asfalt_freze",
+            "name": "Asfalt Freze (Kazıma)",
+            "description": "Eski asfaltı kazıma makinesi"
+          },
+          {
+            "id": "cizgi_cekme",
+            "name": "Yol Çizgi Makinesi",
+            "description": "Yol işaretleme ve çizgi çekme"
+          },
+          {
+            "id": "yol_supurme",
+            "name": "Yol Süpürme Aracı",
+            "description": "Yol temizlik ve vakum makinesi"
+          }
+        ]
+      }
+    ]
+  }
